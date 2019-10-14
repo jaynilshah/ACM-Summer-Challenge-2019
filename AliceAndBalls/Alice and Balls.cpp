@@ -12,6 +12,8 @@ using namespace std;
 #define mod 1000000007
 
 int main() {
+	ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
 	boost;
 	//freopen("in09.txt", "r", stdin);
 	//freopen("out09.txt", "w", stdout);
